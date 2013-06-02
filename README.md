@@ -2,13 +2,13 @@
 
 ## Rationale
 
-The maps offered on the [Mississauga Public Transit](http://www.mississauga.ca/portal/miway/routemaps) (*MiWay*) website are high-detail PDFs that render beautifully on a PC, but not so much on a mobile device. They take 30s to 1m or more on my iPhone 4 in Safari, and you can forget about panning the map.
+The maps offered on the [Mississauga Public Transit](http://www.mississauga.ca/portal/miway/routemaps) ( *MiWay* ) website are high-detail PDFs that render beautifully on a PC, but not so much on a mobile device. They take 30s to 1m or more on my iPhone 4 in Safari, and you can forget about panning the map.
 
 *MiWay* has an app in the App Store, but it has very poor ratings, and contacting *Customer Service (miway.customerservice@mississauga.ca)* 3x hasn't generated a single email or phone response.
 
 So, that's where this tool comes into play.
 
-"**MMD**" will grab the PDF maps from the *MiWay* site, crop out *just* the map inside (minus the border), and save it as a PNG. This works much better, and the maps load nearly instantly.
+" **MMD** " will grab the PDF maps from the *MiWay* site, crop out *just* the map inside (minus the border), and save it as a PNG. This works much better, and the maps load nearly instantly.
 
 ## Features
 
